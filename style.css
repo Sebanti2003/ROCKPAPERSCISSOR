@@ -13,7 +13,7 @@ body{
 
 }
 .container{
-    
+    margin-inline:15rem;
     padding: 2rem;
     width: 60%;
     height: 50%;
