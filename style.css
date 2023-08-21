@@ -13,9 +13,10 @@ body{
 
 }
 .container{
-    margin-inline: 20rem;
+    margin-right: 20rem;
+    
     padding: 2rem;
-    width: 50%;
+    width: 60%;
     height: 50%;
     border: 2px solid black;
     border-radius: 20px;
